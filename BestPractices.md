@@ -42,9 +42,12 @@ FluentAssertions
 Quartz.Net  
 Wolverine  
 Elsa Core  
-Project Orleans
+FastEndpoints  
 
-## Blogs/developers to follow
+Project Orleans  
+AZD  
+
+## Blogs/YouTube channels/developers to follow
 
 Azure Cloud Blogs https://cloudblogs.microsoft.com  
 Microsoft Developer Blogs https://devblogs.microsoft.com  
@@ -60,6 +63,9 @@ Jeremy Miller https://jeremydmiller.com
 Andrew Lock https://andrewlock.net  
 The Morning Brew https://cwa.me.uk  
 The Morning Dew https://alvinashcraft.com  
+Raw Coding https://www.youtube.com/@RawCoding  
+Nick Chapsas https://www.youtube.com/@nickchapsas  
+
 
 
  
