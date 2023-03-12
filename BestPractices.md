@@ -1,7 +1,7 @@
 
 # Best Practices
 
-A page to store links, comments, and packages that I consider beneficial for devloping and writing clean code.
+A page to store links, blogs, comments, and packages that I consider beneficial for learning, developing and writing clean .NET code.
 
 ## Microsoft Code with Engineering Playbook
 
@@ -40,7 +40,26 @@ FluentValidation
 AutoFixture  
 FluentAssertions  
 Quartz.Net  
+Wolverine  
+Elsa Core  
+Project Orleans
 
+## Blogs/developers to follow
+
+Azure Cloud Blogs https://cloudblogs.microsoft.com  
+Microsoft Developer Blogs https://devblogs.microsoft.com  
+Steve ‘Ardalis’ Smith https://ardalis.com  
+Vladimir Khorikov https://enterprisecraftsmanship.com  
+Jimmy Bogard https://jimmybogard.com  
+Mark Heath https://markheath.net  
+Khalid Abuhakmeh https://khalidabuhakmeh.com  
+Derek Comartin https://codeopinion.com  
+Bart Wullem https://bartwullems.blogspot.com  
+Rick Strahl https://weblog.west-wind.com  
+Jeremy Miller https://jeremydmiller.com  
+Andrew Lock https://andrewlock.net  
+The Morning Brew https://cwa.me.uk  
+The Morning Dew https://alvinashcraft.com  
 
 
  
