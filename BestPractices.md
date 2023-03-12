@@ -79,6 +79,7 @@ https://github.com/oskardudycz/EventSourcing.NetCore
 
 HTMX https://htmx.org  
 Hyperscript https://hyperscript.org
+AlpineJs https://alpinejs.dev  
 
 
 
