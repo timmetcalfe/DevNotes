@@ -43,6 +43,10 @@ Quartz.Net
 Wolverine  
 Elsa Core  
 FastEndpoints  
+Nuke.Build  
+LinkKit  
+EFCore.BulkExtensions  
+AngleSharp  
 
 Project Orleans  
 AZD  
@@ -61,10 +65,22 @@ Bart Wullem https://bartwullems.blogspot.com
 Rick Strahl https://weblog.west-wind.com  
 Jeremy Miller https://jeremydmiller.com  
 Andrew Lock https://andrewlock.net  
+Oscar Dudycz https://event-driven.io/en  
 The Morning Brew https://cwa.me.uk  
-The Morning Dew https://alvinashcraft.com  
+The Morning Dew https://alvinashcraft.com    
 Raw Coding https://www.youtube.com/@RawCoding  
 Nick Chapsas https://www.youtube.com/@nickchapsas  
+
+## Event Sourcing
+
+https://github.com/oskardudycz/EventSourcing.NetCore
+
+## UI
+
+HTMX https://htmx.org  
+Hyperscript https://hyperscript.org
+
+
 
 
 
