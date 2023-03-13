@@ -5,9 +5,11 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 
 ## Microsoft Code with Engineering Playbook
 
-[Mirosoft Commercial Software Engineering team, CSE Code with engineering playbook](https://microsoft.github.io/code-with-engineering-playbook)<br>
-[Engineering Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/)<br>
-[C# code reviews and checklist](https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/csharp/)<br>
+[Mirosoft Commercial Software Engineering team, CSE Code with engineering playbook](https://microsoft.github.io/code-with-engineering-playbook)
+
+[Engineering Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/)
+
+[C# code reviews and checklist](https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/csharp/)
 
 ## Creating a new project/package
 
@@ -25,48 +27,47 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 
 ## NuGet packages to consider for each project
 
-Fluent Results  
-BenchmarkDotNet.Org  
-DbUp  
-Serilog  
-HangFire  
-Scrutor  
-FluentValidation  
-AutoFixture  
-FluentAssertions  
-Quartz.Net  
-Wolverine  
-Elsa Core  
-FastEndpoints  
-Nuke.Build  
-LinkKit  
-EFCore.BulkExtensions  
-AngleSharp  
-Playwright  
-[Andrew Lock - Small package to allow adding security headers to ASP.NET Core websites](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders)  
+- Fluent Results  
+- BenchmarkDotNet.Org  
+- DbUp  
+- Serilog  
+- HangFire  
+- Scrutor  
+- FluentValidation  
+- AutoFixture  
+- FluentAssertions  
+- Quartz.Net  
+- Wolverine  
+- Elsa Core  
+- FastEndpoints  
+- Nuke.Build  
+- LinkKit  
+- EFCore.BulkExtensions  
+- AngleSharp  
+- Playwright  
+- [Andrew Lock - Small package to allow adding security headers to ASP.NET Core websites](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders)  
 
 Project Orleans  
 AZD  
 
 ## Blogs/ YouTube channels / developers to follow
-
-[Azure Cloud Blogs](https://cloudblogs.microsoft.com)  
-[Microsoft Developer Blogs](https://devblogs.microsoft.com)  
-[Steve ‘Ardalis’ Smith](https://ardalis.com)  
-[Vladimir Khorikov](https://enterprisecraftsmanship.com)  
-[Jimmy Bogard](https://jimmybogard.com)  
-[Mark Heath](https://markheath.net)  
-[Khalid Abuhakmeh](https://khalidabuhakmeh.com)  
-[Derek Comartin](https://codeopinion.com)  
-[Bart Wullem](https://bartwullems.blogspot.com)  
-[Rick Strahl](https://weblog.west-wind.com)  
-[Jeremy Miller](https://jeremydmiller.com)  
-[Andrew Lock](https://andrewlock.net)  
-[Oscar Dudycz](https://event-driven.io/en)  
-[The Morning Brew](https://cwa.me.uk)  
-[The Morning Dew](https://alvinashcraft.com)  
-[Raw Coding](https://www.youtube.com/@RawCoding)  
-[Nick Chapsas](https://www.youtube.com/@nickchapsas)  
+- [Azure Cloud Blogs](https://cloudblogs.microsoft.com)  
+- [Microsoft Developer Blogs](https://devblogs.microsoft.com)  
+- [Steve ‘Ardalis’ Smith](https://ardalis.com)  
+- [Vladimir Khorikov](https://enterprisecraftsmanship.com)  
+- [Jimmy Bogard](https://jimmybogard.com)  
+- [Mark Heath](https://markheath.net)  
+- [Khalid Abuhakmeh](https://khalidabuhakmeh.com)  
+- [Derek Comartin](https://codeopinion.com)  
+- [Bart Wullem](https://bartwullems.blogspot.com)  
+- [Rick Strahl](https://weblog.west-wind.com)  
+- [Jeremy Miller](https://jeremydmiller.com)  
+- [Andrew Lock](https://andrewlock.net)  
+- [Oscar Dudycz](https://event-driven.io/en)  
+- [The Morning Brew](https://cwa.me.uk)  
+- [The Morning Dew](https://alvinashcraft.com)  
+- [Raw Coding](https://www.youtube.com/@RawCoding)  
+- [Nick Chapsas](https://www.youtube.com/@nickchapsas)  
 
 ## Event Sourcing
 
@@ -74,11 +75,9 @@ AZD
 
 ## UI
 
-[HTMX](https://htmx.org)
-
-[Hyperscript](https://hyperscript.org)
-
-[AlpineJs](https://alpinejs.dev)  
+- [HTMX](https://htmx.org)
+- [Hyperscript](https://hyperscript.org)
+- [AlpineJs](https://alpinejs.dev)  
 
 ## Valuable articles / blog posts / courses
 
