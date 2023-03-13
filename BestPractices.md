@@ -47,6 +47,7 @@ Nuke.Build
 LinkKit  
 EFCore.BulkExtensions  
 AngleSharp  
+Playwright  
 
 Project Orleans  
 AZD  
@@ -81,6 +82,14 @@ HTMX https://htmx.org
 Hyperscript https://hyperscript.org
 AlpineJs https://alpinejs.dev  
 
+## Valuable articles / blog posts / courses
+
+[C# 9.0: Pattern Matching in Switch Expressions - Thomas Claudis Huber](https://www.thomasclaudiushuber.com/2021/02/25/c-9-0-pattern-matching-in-switch-expressions/)  
+[Domain-Driven Design Fundamentals By Julie Lerman and Steve Smith - Pluralsight](https://app.pluralsight.com/course-player?clipId=2a61567d-77cd-4b9c-9c8b-8a942cf4abb8)  
+
+## Microsoft DevBlog articles
+
+[Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API - Microsoft .NET Blog](https://devblogs.microsoft.com/dotnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/)  
 
 
 
