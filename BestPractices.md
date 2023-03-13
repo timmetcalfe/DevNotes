@@ -5,9 +5,9 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 
 ## Microsoft Code with Engineering Playbook
 
-https://microsoft.github.io/code-with-engineering-playbook, especially  
-https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/  
-https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/csharp/
+[Mirosoft Commercial Software Engineering team, CSE Code with engineering playbook](https://microsoft.github.io/code-with-engineering-playbook)  
+[Engineering Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/)  
+[C# code reviews and checklist](https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/csharp/)  
 
 ## Creating a new project/package
 
@@ -22,11 +22,6 @@ https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/
   <PrivateAssets>all</PrivateAssets>
 </PackageReference>
   ```
-## Web site security headers
-
-https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders
-
-Related NuGet package is NetEscapades.AspNetCore.SecurityHeaders
 
 ## NuGet packages to consider for each project
 
@@ -48,39 +43,40 @@ LinkKit
 EFCore.BulkExtensions  
 AngleSharp  
 Playwright  
+[Andrew Lock - Small package to allow adding security headers to ASP.NET Core websites](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders)  
 
 Project Orleans  
 AZD  
 
-## Blogs/YouTube channels/developers to follow
+## Blogs/ YouTube channels / developers to follow
 
-Azure Cloud Blogs https://cloudblogs.microsoft.com  
-Microsoft Developer Blogs https://devblogs.microsoft.com  
-Steve ‘Ardalis’ Smith https://ardalis.com  
-Vladimir Khorikov https://enterprisecraftsmanship.com  
-Jimmy Bogard https://jimmybogard.com  
-Mark Heath https://markheath.net  
-Khalid Abuhakmeh https://khalidabuhakmeh.com  
-Derek Comartin https://codeopinion.com  
-Bart Wullem https://bartwullems.blogspot.com  
-Rick Strahl https://weblog.west-wind.com  
-Jeremy Miller https://jeremydmiller.com  
-Andrew Lock https://andrewlock.net  
-Oscar Dudycz https://event-driven.io/en  
-The Morning Brew https://cwa.me.uk  
-The Morning Dew https://alvinashcraft.com    
-Raw Coding https://www.youtube.com/@RawCoding  
-Nick Chapsas https://www.youtube.com/@nickchapsas  
+[Azure Cloud Blogs](https://cloudblogs.microsoft.com)  
+[Microsoft Developer Blogs](https://devblogs.microsoft.com)  
+[Steve ‘Ardalis’ Smith](https://ardalis.com)  
+[Vladimir Khorikov](https://enterprisecraftsmanship.com)  
+[Jimmy Bogard](https://jimmybogard.com)  
+[Mark Heath](https://markheath.net)  
+[Khalid Abuhakmeh](https://khalidabuhakmeh.com)  
+[Derek Comartin](https://codeopinion.com)  
+[Bart Wullem](https://bartwullems.blogspot.com)  
+[Rick Strahl](https://weblog.west-wind.com)  
+[Jeremy Miller](https://jeremydmiller.com)  
+[Andrew Lock](https://andrewlock.net)  
+[Oscar Dudycz](https://event-driven.io/en)  
+[The Morning Brew](https://cwa.me.uk)  
+[The Morning Dew](https://alvinashcraft.com)  
+[Raw Coding](https://www.youtube.com/@RawCoding)  
+[Nick Chapsas](https://www.youtube.com/@nickchapsas)  
 
 ## Event Sourcing
 
-https://github.com/oskardudycz/EventSourcing.NetCore
+[Examples and Tutorials of Event Sourcing in .NET - Oskar Dudycz](https://github.com/oskardudycz/EventSourcing.NetCore)
 
 ## UI
 
-HTMX https://htmx.org  
-Hyperscript https://hyperscript.org
-AlpineJs https://alpinejs.dev  
+[HTMX](https://htmx.org)  
+[Hyperscript](https://hyperscript.org)
+[AlpineJs](https://alpinejs.dev)  
 
 ## Valuable articles / blog posts / courses
 
