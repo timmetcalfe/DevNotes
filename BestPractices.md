@@ -5,11 +5,9 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 
 ## Microsoft Code with Engineering Playbook
 
-[Mirosoft Commercial Software Engineering team, CSE Code with engineering playbook](https://microsoft.github.io/code-with-engineering-playbook)  
-
-[Engineering Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/)  
-
-[C# code reviews and checklist](https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/csharp/)  
+[Mirosoft Commercial Software Engineering team, CSE Code with engineering playbook](https://microsoft.github.io/code-with-engineering-playbook)<br>
+[Engineering Fundamentals Checklist](https://microsoft.github.io/code-with-engineering-playbook/ENG-FUNDAMENTALS-CHECKLIST/)<br>
+[C# code reviews and checklist](https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/csharp/)<br>
 
 ## Creating a new project/package
 
@@ -76,8 +74,10 @@ AZD
 
 ## UI
 
-[HTMX](https://htmx.org)  
+[HTMX](https://htmx.org)
+
 [Hyperscript](https://hyperscript.org)
+
 [AlpineJs](https://alpinejs.dev)  
 
 ## Valuable articles / blog posts / courses
