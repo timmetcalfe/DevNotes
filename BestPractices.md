@@ -3,6 +3,13 @@
 
 A page to store links, blogs, comments, and packages that I consider beneficial for learning, developing and writing clean .NET code.
 
+## My own design guidelines
+
+- Keep it simple, stupid.
+- Minimise all external dependencies. For example, don't place just 3 or 4 email templates in blob storage that rarely change, which would mean a dependency on the blob storage service. Instead place them in C# classes.
+- Following on from point above, keep as much work as possible in the local code.
+- Keep all configuration local and change depending on environment. Don't automatically use web app config when it's only storing values that never need to be changed in the web app config settings of Azure portal.
+
 ## Microsoft Code with Engineering Playbook
 
 [Mirosoft Commercial Software Engineering team, CSE Code with engineering playbook](https://microsoft.github.io/code-with-engineering-playbook)
@@ -83,7 +90,7 @@ AZD
 
 - [C# 9.0: Pattern Matching in Switch Expressions - Thomas Claudis Huber](https://www.thomasclaudiushuber.com/2021/02/25/c-9-0-pattern-matching-in-switch-expressions/)
 - [Domain-Driven Design Fundamentals By Julie Lerman and Steve Smith - Pluralsight](https://app.pluralsight.com/course-player?clipId=2a61567d-77cd-4b9c-9c8b-8a942cf4abb8)
-- [The Best Way to Validate Your Option Settings in .NET - Nick Chapsas](https://www.youtube.com/watch?v=jblRYDMTtvg)
+- [The Best Way to Validate Your Option Settings in .NET - Nick Chapsas](https://www.youtube.com/watch?v=jblRYDMTtvg) - related [Andrew Lock, Adding validation to strongly typed configuration objects in .NET 6](https://andrewlock.net/adding-validation-to-strongly-typed-configuration-objects-in-dotnet-6/)
 
 ## Microsoft DevBlog articles
 
