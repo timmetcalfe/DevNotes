@@ -6,6 +6,8 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 ## Design principals
 
 - Keep it simple, stupid.
+- Code should read like a story.
+- Prefer locality of behaviour and vertical slice architecture over multiple layers of components.
 - Minimise all external dependencies. For example, don't place just 3 or 4 email templates in blob storage that rarely change, which would mean a dependency on the blob storage service. Instead place them in C# classes.
 - Following on from point above, keep as much work as possible in the local code.
 - Keep all configuration local and change depending on environment. Don't automatically use web app config when it's only storing values that never need to be changed in the web app config settings of Azure portal.
