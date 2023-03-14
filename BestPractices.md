@@ -57,7 +57,8 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 - LinkKit  
 - EFCore.BulkExtensions  
 - AngleSharp  
-- Playwright  
+- Playwright
+- CliWrap
 - [Andrew Lock - Small package to allow adding security headers to ASP.NET Core websites](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders)  
 
 Project Orleans  
