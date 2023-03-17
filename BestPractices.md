@@ -63,8 +63,9 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 
 Project Orleans  
 AZD  
+Microsoft Kiota  
 
-## Blogs/ YouTube channels / developers to follow
+## Blogs / YouTube channels / developers to follow
 - [Azure Cloud Blogs](https://cloudblogs.microsoft.com)  
 - [Microsoft Developer Blogs](https://devblogs.microsoft.com)  
 - [Steve ‘Ardalis’ Smith](https://ardalis.com)  
