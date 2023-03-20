@@ -59,6 +59,7 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 - AngleSharp  
 - Playwright
 - CliWrap
+- Bogus
 - [Andrew Lock - Small package to allow adding security headers to ASP.NET Core websites](https://github.com/andrewlock/NetEscapades.AspNetCore.SecurityHeaders)  
 
 Project Orleans  
