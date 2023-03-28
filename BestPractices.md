@@ -105,6 +105,27 @@ Microsoft Kiota
 
 - [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API - Microsoft .NET Blog](https://devblogs.microsoft.com/dotnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/) - 4th Feb, 2021  
 
+## Better code strucutre from a post on Stackoverflow
+
+We focus on having better code structure instead of micro coding rules which apply to one part of a statement or identifier declaration.
+
+Variable naming, whether or not you use VAR and the like are minor minor worries.
+
+Our solution:
+- Getting the business logic right
+- Having methods follow the business logic instead of misappropriated patterns
+- Checking for errors
+- Using guard clauses
+- Avoid using the self-documenting code cliche instead of documenting the business purpose and logic for each unit of work
+- Having code where the reading level is Junior developer
+- Limiting the number of identifiers each line of code has access to
+- Keeping code together for a single job, following locality of reference, not segregating code out into dozens of components for a single task just for whiteboard diagramming purposes. Indirection in reading the code for a business task from the first line to the last for the business task should be easy and not require the reader to look at dozens of source code files.
+- Avoiding magic framework induced indirection. Code used should be referenced by a method and not through levels of framework interconnects. Breaking down business logic into X areas interconnected via framework indirection considerably lowers the maintainability of the code.
+- Code should not require reader to be an expert in the framework, ASP.NET MVC structure, ... because that knowledge is an order of magnitude harder to find 3 years after the code goes into production. Think finding an Angular 1.0 expert now 5+ years after that framework was released
+- Avoiding custom build steps
+- Avoiding custom build tools
+- *important* - Not buying or using tools, libraries, frameworks which hit 75% of our needs but need customization to work. It's a ticking maintenance bomb. The underlying tool, framework, library should have the functionality already in it and not require customization.
+
 
 
 
