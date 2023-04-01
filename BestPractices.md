@@ -54,7 +54,7 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 - Elsa Core  
 - FastEndpoints  
 - Nuke.Build  
-- LinkKit  
+- LINQKit  
 - EFCore.BulkExtensions  
 - AngleSharp  
 - Playwright
