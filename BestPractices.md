@@ -15,6 +15,7 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 - Keep all configuration local and change depending on environment. Don't automatically use web app config when it's only storing values that never need to be changed in the web app config settings of Azure portal.
 - Minimise dependency on specific cloud providers.
 - Prefer build and deployment process in code and CLI rather than YAML based pipelines.
+- A dependency is a liability. Reduece all external dependencies as much as posssible.
 
 ## Microsoft Code with Engineering Playbook
 
