@@ -106,7 +106,9 @@ Microsoft Kiota
 
 - [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API - Microsoft .NET Blog](https://devblogs.microsoft.com/dotnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/) - 4th Feb, 2021  
 
-## Better code strucutre from a post on Stackoverflow
+## Better code strucutre from a post on Scott Hanselman's blog
+
+https://www.hanselman.com/blog/editorconfig-code-formatting-from-the-command-line-with-net-cores-dotnet-format-global-tool - Stuart’s comment.
 
 We focus on having better code structure instead of micro coding rules which apply to one part of a statement or identifier declaration.
 
