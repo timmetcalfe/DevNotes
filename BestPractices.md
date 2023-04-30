@@ -98,6 +98,7 @@ Microsoft Kiota
 
 ## Valuable articles / blog posts / courses
 
+- [Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md)
 - [C# 9.0: Pattern Matching in Switch Expressions - Thomas Claudis Huber](https://www.thomasclaudiushuber.com/2021/02/25/c-9-0-pattern-matching-in-switch-expressions/)
 - [Domain-Driven Design Fundamentals By Julie Lerman and Steve Smith - Pluralsight](https://app.pluralsight.com/course-player?clipId=2a61567d-77cd-4b9c-9c8b-8a942cf4abb8)
 - [The Best Way to Validate Your Option Settings in .NET - Nick Chapsas](https://www.youtube.com/watch?v=jblRYDMTtvg) - related [Andrew Lock, Adding validation to strongly typed configuration objects in .NET 6](https://andrewlock.net/adding-validation-to-strongly-typed-configuration-objects-in-dotnet-6/)
