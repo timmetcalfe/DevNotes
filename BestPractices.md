@@ -25,6 +25,11 @@ A page to store links, blogs, comments, and packages that I consider beneficial 
 
 [C# code reviews and checklist](https://microsoft.github.io/code-with-engineering-playbook/code-reviews/recipes/csharp/)
 
+## Coding conventions and engineering guidelines from Microsoft
+[Common C# code conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+
+[ASPNET Core engineering guidelines](https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines)
+
 ## Creating a new project/package
 
 ```
