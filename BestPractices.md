@@ -113,7 +113,7 @@ Microsoft Kiota
 - [Creating Discoverable HTTP APIs with ASP.NET Core 5 Web API - Microsoft .NET Blog](https://devblogs.microsoft.com/dotnet/creating-discoverable-http-apis-with-asp-net-core-5-web-api/) - 4th Feb, 2021  
 - [Open-source HTTP API packages and tools - Microsoft .NET Blog](https://devblogs.microsoft.com/dotnet/open-source-http-api-packages-and-tools/) - 11th Feb, 2021
 
-## Better code strucutre from a post on Scott Hanselman's blog
+## Better code structure from a post on Scott Hanselman's blog
 
 https://www.hanselman.com/blog/editorconfig-code-formatting-from-the-command-line-with-net-cores-dotnet-format-global-tool - Stuart’s comment.
 
