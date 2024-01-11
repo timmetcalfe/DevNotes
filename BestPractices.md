@@ -136,7 +136,31 @@ Our solution:
 - Avoiding custom build tools
 - *important* - Not buying or using tools, libraries, frameworks which hit 75% of our needs but need customization to work. It's a ticking maintenance bomb. The underlying tool, framework, library should have the functionality already in it and not require customization.
 
+## Resiliency strategies
 
+### Sending a message to service bus
+Newer versions of the Azure SDK have default resiliency strategies for many Azure services. Details of them can be found at:
+https://learn.microsoft.com/en-us/azure/architecture/best-practices/retry-service-specific
+
+Using the Azure SDKs means resiliency is implemented by default for many services.
+
+### Azure SQL database
+Entity Framework Core has an option for connection resiliency, which is .EnableRetryOnFailure(). For example:
+
+services.AddDbContext<QlikDbContext>(options =>
+  options.UseSqlServer(hostContext.Configuration.GetSection("QlikDatabaseConnection").Value, sqlOptions =>
+  {
+      sqlOptions.EnableRetryOnFailure();
+  }));
+Details can be found at:
+https://learn.microsoft.com/en-us/ef/core/miscellaneous/connection-resiliency
+
+### Calling an HTTP endpoint using .NET HTTP client
+.NET 8 has a new package available which provides updated default resiliency strategies based on Polly v8. Include the package Microsoft.Extensions.Http.Resilience, add .AddStandardResilienceHandler() to a HttpClient implementation and the new default strategies will be enabled. For example:
+
+services.AddHttpClient<RmApiOutboundHttpClientService>().AddStandardResilienceHandler();
+Details at:
+https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/
 
 
 
