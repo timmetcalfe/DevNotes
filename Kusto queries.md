@@ -52,3 +52,5 @@ AppTraces
 | project ProcessStart, OperationId, QueryLink = strcat("https://portal.azure.com#@68b2d50a-57dd-4bd5-85bb-a249b0b19ddf/blade/Microsoft_OperationsManagementSuite_Workspace/Logs.ReactView/resourceId/%2Fsubscriptions%2Ff15d5cbc-5768-4932-9a2d-9d5aa8b8289a%2Fresourcegroups%2Fibo-dev-assess-intsvcs-01-rg%2Fproviders%2Fmicrosoft.operationalinsights%2Fworkspaces%2Fibo-dev-assess-int-01-log/source/LogsBlade.AnalyticsShareLinkToQuery/q/", LinkQuery, "/timespan/PT1H")
 | order by ProcessStart desc`
 
+[How to liink to a query in Log Analytics or Application Insights](https://zimmergren.net/deep-linking-azure-log-analytics-and-app-insight-queries/)
+
