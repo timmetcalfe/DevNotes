@@ -162,7 +162,10 @@ services.AddHttpClient<RmApiOutboundHttpClientService>().AddStandardResilienceHa
 Details at:
 https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/
 
+## Testing
+[Microsoft testing library for times and ILogger - Fake it 'til you make it to production](https://devblogs.microsoft.com/dotnet/fake-it-til-you-make-it-to-production/)
 
-
+## DevOps
+[Code coverage report in Azure DevOps pipelines](https://josh-ops.com/posts/azure-devops-code-coverage/)
  
     
