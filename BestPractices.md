@@ -161,6 +161,7 @@ https://learn.microsoft.com/en-us/ef/core/miscellaneous/connection-resiliency
 services.AddHttpClient<RmApiOutboundHttpClientService>().AddStandardResilienceHandler();
 Details at:
 https://devblogs.microsoft.com/dotnet/building-resilient-cloud-services-with-dotnet-8/
+and https://learn.microsoft.com/en-us/dotnet/core/resilience/http-resilience?tabs=dotnet-cli
 
 ## Testing
 [Microsoft testing library for times and ILogger - Fake it 'til you make it to production](https://devblogs.microsoft.com/dotnet/fake-it-til-you-make-it-to-production/)
