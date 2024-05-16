@@ -1,11 +1,20 @@
 # Kusto queries
-## Kusto query for alerts
+## Kusto query for alerts if using Log Analytics
 
 `AppTraces
 | where TimeGenerated > ago(5m)
 | where Properties.CategoryName startswith "RM.Gateway.Outbound"
 | where Properties.EventName == "rm_api006_successfully_called_rm_api"
 | top 1 by OperationId`
+
+## Kusto query for alerts if using Application Insights
+
+`traces
+| where timestamp > ago(24h)
+| where customDimensions.CategoryName startswith "RM.Gateway.Outbound"
+| where customDimensions.EventName == "rm_api006_successfully_called_rm_api"
+| top 1 by operation_Id`
+
 ## Kusto query for overall status
 `let EventNames = datatable(EventName: string)
 [
