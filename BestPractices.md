@@ -3,6 +3,9 @@
 
 A page to store links, blogs, comments, and packages that I consider beneficial for learning, developing and writing clean .NET code.
 
+## Microsoft Reliable Web App Pattern for .NET
+https://learn.microsoft.com/en-us/azure/architecture/web-apps/guides/enterprise-app-patterns/reliable-web-app/dotnet/guidance
+
 ## Design principals
 
 - Keep it simple, stupid.
